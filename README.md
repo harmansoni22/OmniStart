@@ -10,7 +10,7 @@
 ## 🛠️ Tech Stack
 - HTML
 - CSS
-- Bootstrap 5
+- Bootstrap 5.3
 - JavaScript
 
 ## 📁 Folder Structure
